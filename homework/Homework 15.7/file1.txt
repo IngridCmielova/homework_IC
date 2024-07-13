@@ -1,5 +1,5 @@
 Toto je první řádek.
-Toto je druhý řádek.
+Toto je pozměněný druhý řádek.
 Toto je třetí řádek.
-Toto je čtvrtý řádek.
+Toto je jiný čtvrtý řádek.
 Toto je pátý řádek.

@@ -3,4 +3,3 @@ Toto je pozměněný druhý řádek.
 Toto je třetí řádek.
 Toto je jiný čtvrtý řádek.
 Toto je pátý řádek.
-Další řádek navíc v druhém souboru.
