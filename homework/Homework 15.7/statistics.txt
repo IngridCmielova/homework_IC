@@ -1,0 +1,5 @@
+Chars: 122
+Lines: 5
+Vowels: 22
+Consonant: 40
+Digits: 0
