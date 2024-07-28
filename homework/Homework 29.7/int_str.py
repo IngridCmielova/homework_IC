@@ -62,4 +62,4 @@ class Trapezoid(Shape):
 rectangle = Rectangle(10, 5)
 
 print(rectangle)
-print(f"Plocha obdélníku: {int(rectangle)}")  
+print(f"Plocha obdélníku: {int(rectangle)}")

@@ -1,0 +1,5 @@
+Čtverec 1 2 5
+Obdélník 3 4 6 7
+Kruh 5 6 3
+Elipsa 7 8 9 4
+
